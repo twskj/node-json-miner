@@ -17,4 +17,4 @@ console.log(result); // result is an array of string
 ### .dig(str [, return_index_mode])
 
 - **str** `<string>` - String to be searched
-- **return_index_mode** `boolean` - When set to true `true` result will be in a form of [[start_index,end_index]]. default to `false`
+- **return_index_mode** `boolean` - When set to `true` result will be in a form of [[start_index,end_index]]. default to `false`
