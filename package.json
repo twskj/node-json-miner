@@ -1,0 +1,17 @@
+{
+  "name": "json-miner",
+  "version": "1.0.0",
+  "description": "json-miner extracts json(s) out of text dump",
+  "main": "json-miner.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "json",
+    "extract",
+    "unstructured-data",
+    "data mining"
+  ],
+  "author": "twskj",
+  "license": "MIT"
+}
