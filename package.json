@@ -1,6 +1,6 @@
 {
   "name": "json-miner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "json-miner extracts json(s) out of text dump",
   "main": "json-miner.js",
   "scripts": {
